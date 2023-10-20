@@ -54,6 +54,13 @@ p {
     line-height: 1.6;
 }
 
+
+.right-align {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+  }
+
 @media (max-width: 768px) {
     body {
         font-size: 16px;
