@@ -5,4 +5,4 @@ LINK DEL REPOSITORIO: https://github.com/maariagarrcia/ironhack_web.git
 Pagina web sobre una pizzeria.
 
 
-<img width="1082" alt="image" src="https://github.com/maariagarrcia/ironhack_web/assets/93185415/fc384cc5-a6d3-435e-8cfb-ad7ac95674a1">
+![image](https://github.com/maariagarrcia/ironhack_web/assets/93185415/d10676a1-e583-4ed3-99d2-9ceeae59d685)
